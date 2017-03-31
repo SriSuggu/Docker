@@ -15,4 +15,4 @@ Start the docker service (as root): service docker start<br>
 3.	//new image will be created and displays the image-id.<br>
 4.	Copy the newly created image0id(visible below the docker load command).<br>
 5.	Docker run -d -p 8081:80 <copied id> <br>
-6.	Check in the browser with your instance ip(ip:8081/).<br>
+6.	Check in the browser with your instance ip(ip:8077/).<br>
